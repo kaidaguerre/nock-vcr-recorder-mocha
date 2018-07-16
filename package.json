@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/poetic/nock-vcr-recorder-mocha.git"
+    "url": "https://github.com/kaidaguerre/nock-vcr-recorder-mocha.git"
   },
   "keywords": [
     "vcr",
@@ -21,9 +21,9 @@
   "author": "Jake Craige <jake@poeticsystems.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/poetic/nock-vcr-recorder-mocha/issues"
+    "url": "https://github.com/kaidaguerre/nock-vcr-recorder-mocha/issues"
   },
-  "homepage": "https://github.com/poetic/nock-vcr-recorder-mocha",
+  "homepage": "https://github.com/kaidaguerre/nock-vcr-recorder-mocha",
   "dependencies": {
     "nock-vcr-recorder": "git://github.com/kaidaguerre/nock-vcr-recorder.git",
     "rsvp": "^3.0.16"
